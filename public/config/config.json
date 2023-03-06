@@ -1,18 +1,18 @@
 {
-  "CONTRACT_ADDRESS": "0xb264D5B8ef10bD30bcb4314A625E7a566B58090E",
-  "SCAN_LINK": "https://mumbai.polygonscan.com/address/0xb264d5b8ef10bd30bcb4314a625e7a566b58090e",
+  "CONTRACT_ADDRESS": "0x1227C247E718f0a2F448B2895C3aD404526Ca896",
+  "SCAN_LINK": "https://etherscan.io/address/0x1227c247e718f0a2f448b2895c3ad404526ca896",
   "NETWORK": {
-    "NAME": "Polygon Testnet",
-    "SYMBOL": "Matic",
-    "ID": 80001
+    "NAME": "Ethereum Mainnet",
+    "SYMBOL": "ETH",
+    "ID": 1
   },
-  "NFT_NAME": "REIGROUP NFT",
-  "SYMBOL": "REIGNFT",
+  "NFT_NAME": "iCAN",
+  "SYMBOL": "iCAN",
   "MAX_SUPPLY": 500,
-  "WEI_COST": 1000000000,
-  "DISPLAY_COST": 1,
+  "WEI_COST": 30000000000000000,
+  "DISPLAY_COST": 0.030,
   "GAS_LIMIT": 285000,
   "MARKETPLACE": "Opeansea",
-  "MARKETPLACE_LINK": "https://opensea.io/collection/reigroup-nft",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/interactive-cans-by-rescue",
   "SHOW_BACKGROUND": true
 }
