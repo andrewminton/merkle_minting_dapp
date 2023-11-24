@@ -10,7 +10,7 @@
   "SYMBOL": "iCAN",
   "MAX_SUPPLY": 500,
   "WEI_COST": 30000000000000000,
-  "DISPLAY_COST": 0.030,
+  "DISPLAY_COST": 0.060,
   "GAS_LIMIT": 285000,
   "MARKETPLACE": "Opeansea",
   "MARKETPLACE_LINK": "https://opensea.io/collection/interactive-cans-by-rescue",
